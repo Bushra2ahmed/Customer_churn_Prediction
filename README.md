@@ -151,7 +151,7 @@ customer-churn-prediction/
 ├── app.py
 ├── model/
 ├── dataset/
-├── images/
+├── dashboard/
 ├── requirements.txt
 └── README.md
 ```
